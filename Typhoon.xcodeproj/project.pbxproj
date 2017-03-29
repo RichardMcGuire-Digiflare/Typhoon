@@ -4844,6 +4844,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "typhoonframework.org.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Typhoon;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -4873,6 +4874,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "typhoonframework.org.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = Typhoon;
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
